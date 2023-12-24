@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'codeappcicd'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA16C864017647E493E62C6AA75EF6AC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2A1219097E34336A8D62559D46C0035 }}
           package: .
